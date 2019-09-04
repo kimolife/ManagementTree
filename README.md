@@ -5,8 +5,9 @@ This is just a simple Project that prints a list of employees in a Management Tr
 This project contains:
 
 * A main application file to kickoff the project `RunApplication.java`
-* A Data access object `Employee.java`
+* A Data Object `Employee.java`
 * An util which contains the main logic for printing the Tree `EmployeeUtils.java`
+* All other files are just default Spring boot project files.
 
 
 Steps to run the application
