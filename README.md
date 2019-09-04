@@ -10,4 +10,5 @@ This project contains:
 
 
 Steps to run the application
+* Import Project as a Maven Project (Click Next all the way)
 * Just compile and run the `main()` method in `RunnApplication.java`
